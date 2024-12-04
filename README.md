@@ -32,6 +32,6 @@ Other Aims to Learn:
 ### 🌐 **Connect With Me**
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kartik_s1336?igsh=dW04NTcxYm9lM29x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/kartik-shrivastava-a2078b322) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@K_Shri99142) [![Email](https://img.shields.io/badge/Email-%23D44638.svg?logo=gmail&logoColor=white)](mailto:shrivastavakartik13@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kartik_s1336?igsh=dW04NTcxYm9lM29x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kartik-shrivastava-a2078b322) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@K_Shri99142) [![Email](https://img.shields.io/badge/Email-%23D44638.svg?logo=gmail&logoColor=white)](mailto:shrivastavakartik13@gmail.com)
 
 
