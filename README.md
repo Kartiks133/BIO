@@ -27,10 +27,11 @@ Other Aims to Learn:
 🎯 Fun Fact
 🏓 When I’m not coding, you’ll find me smashing opponents in table tennis tournaments!
 
+
+
 ### 🌐 **Connect With Me**
 
-- [![Email](https://upload.wikimedia.org/wikipedia/commons/7/72/Email_icon_2.svg)](mailto:shrivastavakartik13@gmail.com)
-- [![X](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.svg)](https://x.com/@K_Shri99142)
-- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png)](https://www.linkedin.com/in/kartik-shrivastava-a2078b322)
-- [![Instagram](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)](https://www.instagram.com/kartik_s1336?igsh=dW04NTcxYm9lM29x)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kartik_s1336?igsh=dW04NTcxYm9lM29x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kartik-shrivastava-a2078b322) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@K_Shri99142) [![Email](https://img.shields.io/badge/Email-%23D44638.svg?logo=gmail&logoColor=white)](mailto:shrivastavakartik13@gmail.com)
+
 
